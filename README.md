@@ -1,5 +1,5 @@
 ## 👋 Hello World!
-Hi, I'm JenChien @Jench2103, an undergraduate student in the Department of Electrical Engineering, NCKU, Taiwan. I'm interested in both computer architecture and software programming, and enjoying the processes of designing a system. Although I'm not a professional yet, I love to learn new technology and skills to improve myself 🌱.
+Hi, I'm Jen-Chien @Jench2103, a graduate student in the School of Computing, NCKU, Taiwan. I'm interested in both computer architecture and software programming, and I enjoy the process of designing high-performance systems as well as useful tools. I love to learn new knowledge and skills to solve real-world challenges 🌱.
 
 
 ## 🙋‍♂️ My Values
@@ -8,21 +8,17 @@ Hi, I'm JenChien @Jench2103, an undergraduate student in the Department of Elect
 - 🙌 Share my knowledge and technique with everyone.
 
 
-## 🎯 My Goals
-I'd like to increase the experience of software development and acquire domain knowledge during all projects I have participated. I want to improve my language skills as well.
-
-
 ## 🧰 Language and Skills
-![cpp](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&style=flat) ![python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=yellow&style=flat) ![flask](https://img.shields.io/badge/-Flask-000000?logo=flask&style=flat) ![linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=white&style=flat) ![ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white&style=flat) ![docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat) ![nginx](https://img.shields.io/badge/-NGINX-009639?logo=nginx&style=flat) ![raspberrypi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?logo=raspberrypi&style=flat)
-
+![cpp](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&style=flat) ![cmake](https://img.shields.io/badge/-CMake-blueviolet?logo=cmake&style=flat) ![python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=yellow&style=flat) ![docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
 
 ## 📫 How to Reach Me
-[![facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white&style=flat)](https://www.facebook.com/profile.php?id=100005588982197) [![linkedin](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/jen-chien-chang-184468203/) [![gmail](https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=white&style=flat)](mailto:jench2103@gmail.com)
+[![linkedin](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/jen-chien-chang-184468203/) [![gmail](https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=white&style=flat)](mailto:jench2103@gmail.com)
 
 
 ## 📋 My Dashboard
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=Jench2103"> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jench2103">
 
+| <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api?username=Jench2103&show_icons=true&include_all_commits=true&hide_border=true" alt="Jen-Chien's GitHub Stats" /></a> | <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jench2103&layout=compact&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 <!--
 - https://shields.io/
